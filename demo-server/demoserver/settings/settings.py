@@ -14,7 +14,7 @@ SECRET_KEY = 'django-insecure-3c_6wd)nft0nm#g(p-*3cjiu_#=gr+^#8y%rjhwb4dy$v-jpd_
 # DEBUG = env('DEBUG')
 # ALLOWED_HOSTS = env('ALLOWED_HOSTS').split(',')
 
-ALLOWED_HOSTS=['*','192.168.43.185','127.0.0.1','localhost','cede-app.herokuapp.com']
+ALLOWED_HOSTS=['*','192.168.43.185','127.0.0.1','localhost','demo-contactx.herokuapp.com']
 DEBUG = True
 
 # Application definition
